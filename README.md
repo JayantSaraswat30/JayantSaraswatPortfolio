@@ -53,4 +53,4 @@ HTML forms the backbone of the portfolio, structuring the content into various s
 
  ✴️Interactive elements like image sliders and project modals for detailed project 
 
-Website link: https://lnkd.in/dYj6UxH3
+Website link: https://jayantsaraswat30.github.io/JayantSaraswatPortfolio/
